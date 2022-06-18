@@ -3535,7 +3535,10 @@ textarea.form-control.is-invalid {
   border-radius: 0.5rem;
   transition: all 0.15s ease-in;
 }
-
+.btnvote{
+  font-weight: 500;
+  padding: 0.60rem 1.3rem;
+}
 @media (prefers-reduced-motion: reduce) {
   .btn {
     transition: none;
@@ -22849,7 +22852,7 @@ hr.horizontal.gray-light {
 
 .table td .progress {
   height: 3px;
-  width: 120px;
+  width: 100%;
   margin: 0;
 }
 
