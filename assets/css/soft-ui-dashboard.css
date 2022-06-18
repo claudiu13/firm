@@ -20191,11 +20191,11 @@ label,
   top: 11px;
   position: relative;
 }
-
-.icon-shape .ni {
-  top: 14px;
+.topt{
+  position: relative;
+  width:100%;
+  border-radius: 0.75rem;
 }
-
 .icon-xxs {
   width: 20px;
   height: 20px;
